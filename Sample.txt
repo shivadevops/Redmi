@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This a sampl eone
 Venu 
 Khadar
+=======
+This a sample one.
+Anil 
+Shiva
+>>>>>>> refs/remotes/origin/master
