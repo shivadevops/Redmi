@@ -6,4 +6,9 @@ Khadar
 This a sample one.
 Anil 
 Shiva
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+Umbrella
+TOmoto
+>>>>>>> origin
